@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Chapeuzinho Vermelho
 
 ## 📒 Descrição
 O projeto utilizs inteligências artificiais generativas para reinventar o clássico conto de Chapeuzinho.
