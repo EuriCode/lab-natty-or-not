@@ -17,6 +17,7 @@ Edição de Texto: O conteúdo foi então refinado e ajustado utilizando o Micro
 
 ## 🚀 Resultados
 
+Ebook: [Chapeuzinho Vermelho](https://github.com/EuriCode/lab-natty-or-not/blob/main/Chapeuzinho%20Vermelho.pdf)
 
 ## 💭 Reflexão
 Foi prático criar algo 'natty' com IA.
